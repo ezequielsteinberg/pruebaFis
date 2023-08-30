@@ -1,7 +1,5 @@
 # pruebaFis
-hola
-Q TAL
-prueba
+
  public boolean estadisticaMejora (int[][] mat){
     int crecio=0; 
     fila=0;  

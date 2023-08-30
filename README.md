@@ -1,4 +1,3 @@
-# pruebaFis
 
  public boolean estadisticaMejora (int[][] mat){
     int crecio=0; 

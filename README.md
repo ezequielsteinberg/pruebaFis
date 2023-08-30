@@ -1,4 +1,4 @@
-
+ej matrices examen 2:
  public boolean estadisticaMejora (int[][] mat){
     int crecio=0; 
     fila=0;  
@@ -19,5 +19,5 @@ if(mat[fila][i]<mat[fila][i-1]){
  return (mat[0].length * mat.length -1) >= crecio;
     }
    
-
+examen 3:
     
